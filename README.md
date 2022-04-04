@@ -9,3 +9,6 @@ https://github.com/Tinkoff/investAPI
 
 Официальная документация:
 https://tinkoff.github.io/investAPI/
+
+Хорошее видео:
+https://www.youtube.com/watch?v=IoO0EvSSqk8
