@@ -6,3 +6,6 @@ https://habr.com/ru/post/592093/
 
 Ссылка на проект на github по которому будет выполняться обучение:
 https://github.com/Tinkoff/investAPI
+
+Официальная документация:
+https://tinkoff.github.io/investAPI/
